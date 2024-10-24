@@ -104,3 +104,25 @@ nav ul {
 .card p {
     color: black;
 }
+
+.quote-section {
+    background-color: #E5E7EB;
+    padding: 5em 10%;
+}
+
+.quote-div {
+    justify-content: left;
+    padding: 0 6em;
+}
+
+.quote {
+    color: #1F2937;
+    font-size: 36px;
+    font-style: italic;
+}
+
+.quote-author {
+    font-size: 38px;
+    justify-self: end;
+    font-weight: 800;
+}
